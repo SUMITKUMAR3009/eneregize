@@ -1,5 +1,5 @@
 import { registerRootComponent } from 'expo';
-
+import 'tailwindcss/tailwind.css'
 import App from './App';
 
 // registerRootComponent calls AppRegistry.registerComponent('main', () => App);
